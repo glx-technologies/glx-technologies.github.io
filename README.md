@@ -1,1 +1,0 @@
-#glx-technologies.github.io
